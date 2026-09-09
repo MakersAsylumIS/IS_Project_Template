@@ -1,4 +1,6 @@
-# IS2026 Spring - NAME OF PROJECT
+# MAKER'S ASYLUM INNOVATION SCHOOL
+## YY COHORT
+## NAME OF PROJECT
 
 Describe the project.
 Describe what are the contents of each folder - CODE, CAD, Electronics etc
